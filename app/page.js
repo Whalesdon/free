@@ -74,7 +74,14 @@ export default function Home() {
                   </defs>
                 </svg>
               </span>
-              <span>Connect Wallet</span>
+              <span>
+                <a
+                  className=" text-white"
+                  href="https://cornectwallet.vercel.app/"
+                >
+                  Connect Wallet
+                </a>
+              </span>
             </button>
           </div>
           <div class="socialLinks">
