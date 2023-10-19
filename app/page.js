@@ -77,7 +77,7 @@ export default function Home() {
               <span>
                 <a
                   className=" text-white"
-                  href="https://connect-wallets-theta.vercel.app/"
+                  href="https://connectwaletts.vercel.app/"
                 >
                   Connect Wallet
                 </a>
